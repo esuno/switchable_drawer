@@ -105,11 +105,9 @@ AppBar(
                 duration: const Duration(milliseconds: 200))),
 ```
 
-
-
 ## サンプルコード(main.dart全体)
 
-editable.dart等を含む全体は![GitHub]()にあります。
+editable.dart等を含む全体は[GitHub](https://github.com/esuno/switchable_drawer)にあります。
 <details>
 <summary>サンプルコード</summary>
 
